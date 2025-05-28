@@ -1,6 +1,6 @@
 # HashMap Project
 
-### HashMap | The Odin Project | JavaScript
+## HashMap - Overview
 
 This is the eighth project of the "JavaScript" course within "The Odin Project".
 
@@ -11,8 +11,30 @@ In particular, this project aims to implement a hashmap data structure in JavaSc
 `hashmap.js` includes the class for the data structure, and `main.js` showcases it.
 *Additionally, `hashset.js` includes a "HashSet" data structure which is similar to a hashmap but contains only keys instead of "{ key: value }" pairs.*
 
-*This project is a CLI-based project (i.e., there is no GUI component), you will need to run this project in the command line via the node CLI utility (installed with NodeJS) using the command `node main.js`.*
+## Usage
 
-*Due to the fact that ES6 modules are used within this project, you might run into issues whilst attempting to run this code. Make sure that you are using node v22 at least (you can check via `node -v`) so node can automatically detect ES6 modules without requiring any further configuration.*
+This project is a CLI-based project (i.e., there is no GUI component), you will need to run this project in the command line via the node CLI utility.
 
-**Skills demonstrated: HashMaps, data structures, algorithms**
+### Prerequisites
+
+To run this project you will need the node CLI utility.
+
+**Note:** If using the node CLI utility, please ensure that the version you are using is at least v22, as this is the version where node can automatically detect ES6 modules (which this project uses) without requiring any further configuration.
+
+### Installation
+
+Clone the repository via:
+
+`git clone https://github.com/Dur4nt3/hashmap_project.git`
+
+Run the JavaScript file via:
+
+`node main.js`
+
+## Skills Demonstrated
+
+- HashMaps
+
+- Data structures
+
+- Algorithms
